@@ -1,4 +1,4 @@
-# JavaScript for Automation (JXA)
+# Automating macOS with Javascript for Automation (JXA)
 
 Made with [Deckset](https://www.decksetapp.com/).
 
